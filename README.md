@@ -1,6 +1,7 @@
 # Coderbyte
 A simple StringChallenge by [Coderbyte](https://coderbyte.com/challenges#)
-Challenge is: if the number N has N consecutive numbers whose value is again N then the code should output "true" .. else "false".
+
+The Challenge is: if the number N has N consecutive numbers whose value is again N then the code should output "true" .. else "false".
 
 Examples: 
 - if 
